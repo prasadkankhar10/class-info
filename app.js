@@ -146,11 +146,6 @@ function initRoomPage() {
     document.getElementById('room-capacity').textContent = capacity > 0 ? `${capacity} Seats` : 'Not specified';
 
     const currentDay = getCurrentDayName();
-    const currentDaySlots = getRoomTimetableForDay(room, currentDay);
-    const timetableTitle = document.getElementById('timetable-title');
-    if (timetableTitle) {
-        timetableTitle.textContent = `Today's Timetable (${currentDay})`;
-    }
     
     // Equipment tags
     const equipmentContainer = document.getElementById('equipment-tags');
@@ -170,24 +165,103 @@ function initRoomPage() {
         });
     }
 
-    // Timetable - Filter by current day
-    const tbody = document.getElementById('timetable-body');
-    let activeSlotFound = false;
+    // Initialize Day Selector and Timetable
+    setupDaySelector(room, currentDay);
+    renderTimetableForDay(room, currentDay);
+    
+    // Initial live status and clock
+    refreshLiveStatus(room);
+    updateClock();
+    
+    // Update every minute
+    setInterval(() => {
+        updateClock();
+        refreshLiveStatus(room);
+    }, 60000);
+}
 
-    if (currentDaySlots.length === 0) {
+function refreshLiveStatus(room) {
+    const currentDay = getCurrentDayName();
+    const todaySlots = getRoomTimetableForDay(room, currentDay);
+    let activeSlot = null;
+    
+    for (const slot of todaySlots) {
+        if (isCurrentSlot(slot.slot)) {
+            activeSlot = slot;
+            break;
+        }
+    }
+    
+    if (activeSlot) {
+        updateLiveStatusIndicator(activeSlot);
+    } else {
+        updateLiveStatusIndicator({ subject: 'Free' });
+    }
+    
+    // Also re-highlight active row if currently viewing today's timetable
+    const activeBtn = document.querySelector('#day-selector .filter-btn.active');
+    if (activeBtn && activeBtn.dataset.day === currentDay) {
+        // Just re-render today's timetable to update highlight
+        renderTimetableForDay(room, currentDay, false);
+    }
+}
+
+function setupDaySelector(room, initialDay) {
+    const daySelector = document.getElementById('day-selector');
+    if (!daySelector) return;
+    
+    daySelector.innerHTML = '';
+    const displayDays = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"];
+    
+    let activeDay = displayDays.includes(initialDay) ? initialDay : "MONDAY";
+
+    displayDays.forEach(day => {
+        const btn = document.createElement('button');
+        btn.className = `filter-btn ${day === activeDay ? 'active' : ''}`;
+        btn.textContent = day.substring(0, 3); // Mon, Tue, Wed
+        btn.dataset.day = day;
+        
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('#day-selector .filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            renderTimetableForDay(room, day);
+        });
+        
+        daySelector.appendChild(btn);
+    });
+}
+
+function renderTimetableForDay(room, dayName, updateLiveStatus = true) {
+    const timetableTitle = document.getElementById('timetable-title');
+    const currentDay = getCurrentDayName();
+    
+    if (timetableTitle) {
+        if (dayName === currentDay) {
+            timetableTitle.textContent = `Today's Timetable (${dayName})`;
+        } else {
+            timetableTitle.textContent = `${dayName}'s Timetable`;
+        }
+    }
+    
+    const daySlots = getRoomTimetableForDay(room, dayName);
+    const tbody = document.getElementById('timetable-body');
+    if (!tbody) return;
+    
+    tbody.innerHTML = '';
+    const isToday = dayName === currentDay;
+
+    if (daySlots.length === 0) {
         const tr = document.createElement('tr');
-        tr.innerHTML = `<td colspan="2" class="text-muted" style="text-align: center; padding: 1rem;">No classes scheduled for today.</td>`;
+        tr.innerHTML = `<td colspan="2" class="text-muted" style="text-align: center; padding: 1rem;">No classes scheduled for this day.</td>`;
         tbody.appendChild(tr);
     }
 
-    currentDaySlots.forEach(slot => {
+    daySlots.forEach(slot => {
         const tr = document.createElement('tr');
-        const isActive = isCurrentSlot(slot.slot);
+        const isActive = isToday && isCurrentSlot(slot.slot);
         
         if (isActive) {
             tr.classList.add('active-slot');
-            activeSlotFound = true;
-            updateLiveStatusIndicator(slot);
         }
 
         const isFree = isFreeSubject(slot.subject);
@@ -203,15 +277,6 @@ function initRoomPage() {
         `;
         tbody.appendChild(tr);
     });
-
-    if (!activeSlotFound) {
-        // Not within any defined slot, assume available
-        updateLiveStatusIndicator({ subject: 'Free' });
-    }
-
-    // Start clock
-    updateClock();
-    setInterval(updateClock, 60000); // update every minute
 }
 
 function updateLiveStatusIndicator(activeSlot) {

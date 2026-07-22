@@ -3309,5 +3309,4472 @@
                 "faculty": ""
             }
         ]
+    },
+    {
+        "id": "SY-A ",
+        "name": "Room SY-A ",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DECA VVJ",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS/DECA A1/A4 SHZ/VVJ 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS SHZ",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DECA VVJ",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DS/DECA A2/A3 SHZ/VVJ 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DS/DECA A3/A2 SHZ/VVJ 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DS SHZ",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DECA VVJ",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "UHV PR X1",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "EEM PSK",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DS SHZ",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DS/DECA A4/A1 VBS/SRV 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "UHV X1",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "EEM PSK",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "SY-B",
+        "name": "Room SY-B",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "EEM PTB",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DS BBG",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS/DECA B1/B4 BBG/PPK 512/402",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DECA PPK",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "EEM PTB",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DS BBG",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DECA PPK",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DS/DECA B2/B3 BBG/PPK 512/402",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DS/DECA B3/B2 BBG/PPK 512/402",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DECA PPK",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "UHV X1",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS BBG",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DS/DECA B4/B1 BBG/DRL 512/402",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "UHV PR X1",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "SY-C",
+        "name": "Room SY-C",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DS/DECA C1/C4 VBS/SRV 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DECA SRV",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DS VBS",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DECA SRV",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "UHV PR X1",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DS VBS",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "UHV X1",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "EEM JMK",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DS/DECA C2/C3 VBS/SRV 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DS VBS",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DECA SRV",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS/DECA C4/C1 VBS/PDS 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "EEM JMK",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS/DECA C3/C2 VBS/PDS 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "SY-D",
+        "name": "Room SY-D",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DECA DRL",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS AMP",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "EEM JMK",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DM&LA SP D",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DS AMP",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS/DECA D2/D3 AMP/DRL 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "DECA DRL",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "UHV X1",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DS AMP",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS/DECA D3/D2 JJ/DRL 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "EEM JMK",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DECA DRL",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS/DECA D4/D1 JJ/DRL 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "UHV PR X1",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS/DECA D1/D4 JJ/DRL 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "SY-E",
+        "name": "Room SY-E",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "UHV X1",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DECA X1",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS DRL 525",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DS/DECA E1/E4 BBG/VVJ 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DS DRL",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DECA X1 525",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "EEM AGM",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DS/DECA E2/E3 AMP/X1 507A/512",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DS DRL",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "EEM AGM",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DM&LA SP 518",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DS/DECA E3/E2 DRD/X1 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DECA X1",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DM&LA SP",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS/DECA E4/E1 X1/VVJ 511B/512",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "UHV PR X1 518",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "SY-F",
+        "name": "Room SY-F",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DM&LA PSB 108A",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DECA PDS 519",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DS JJ 519",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DS/DECA F1/F4 AMP/SRV 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DS JJ 527",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DECA PDS 527",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DS/DECA F2/F3 VBS/SRV 507A/402",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CCF PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DECA PDS 518",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DM&LA PSB 524",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "EEM YGJ 527",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "UHV X1 109",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DS/DECA F3/F2 AMP/DRL 402/402",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DS/DECA F4/F1 AMP/PDS 511B/402",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "EEM YGJ 527",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DM&LA PSB 108A",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DS JJ 519",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "UHV PR X1 109",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM TH A/B/C VVJ/GRT/X1 520/524/526",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I TH",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR CRL X1 520",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "TY-A",
+        "name": "Room TY-A",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA A1/A2/A3 SAS/SBB/BPC 402/513A/511A",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DAA BPC",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "CN PMA",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA A2/A3/A4 SAS/X1/BPC 402/402/511A",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CN PMA",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DAA BPC",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CN PMA",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DBMS SAS",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DAA BPC",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA A3/A4/A1 SAS/PMA/BPC 402/402/511A",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DBMS SAS",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM PR A1/A2/A3/A4 SAJ/BPC/ARK/SAS 402/402/402/402 JJ/B2/B3/B4 X1/X2/X3/X4 507A/513B/511A/511B C1/C2/C3 X1/X2/X3 502A/502B/502C",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA A4/A1/A2 SAS/PMA/BPC 402/511B/511A",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DBMS SAS",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TY CPM",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "TY-B_2",
+        "name": "Room TY-B_2",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA B1/B2/B3 RAA/GRT/ARK 513B/502B/507A",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DBMS RAA",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "CN AES",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA B2/B3/B4 RAA/GRT/ARK 402/502B/507A",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CN AES",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DBMS RAA",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA B3/B4/B1 RAA/GRT/AKP 513B/402/507A",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DAA ARK",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DAA ARK",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DBMS RAA",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM PR A1/A2/A3/A4 SAJ/BPC/ARK/SAS 402/402/402/402 JJ/B2/B3/B4 X1/X2/X3/X4 507A/513B/511A/511B C1/C2/C3 X1/X2/X3 502A/502B/502C",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA B4/B1/B2 RAA/AES/ARK 513B/514/507A",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DAA ARK",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CN AES",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TY CPM",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "TY-C_2",
+        "name": "Room TY-C_2",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS PSD",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CN BSS",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DBMS/CN/DAA C3/C4/C1 X1/GRT/ARK 502A/502B/502C",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DAA BSA",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CN BSS",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "DBMS PSD",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CN BSS",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DBMS PSD",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA C1/C2/C3 PSD/GRT/AKP 513B/502B/402",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DAA BSA",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM PR A1/A2/A3/A4 SAJ/BPC/ARK/SAS 402/402/402/402 JJ/B2/B3/B4 X1/X2/X3/X4 507A/513B/511A/511B C1/C2/C3 X1/X2/X3 502A/502B/502C",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA C2/C3/C4 PSD/GRT/AKP 502A/502B/502C",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DAA BSA",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DBMS/CN/DAA C4/C1/C2 SAS/PMA/AKP 502A/502B/502C",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TY CPM",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "TY-D_2",
+        "name": "Room TY-D_2",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DAA SAJ",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DBMS/CN/DAA D1/D2/D3 AAM/SBB/SAJ 513B/513A/507A",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS AAM",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CN SBB",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DBMS/CN/DAA D2/D3/D4 AAM/SBB/SAJ 513B/513A/507A",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CI&S BSS 508",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DAA SAJ",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CN SBB",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DBMS AAM",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM TH A/B/C SAJ/JJ/X2 108B/508/517",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TY OE-III A/B 517/518",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DBMS/CN/DAA D4/D1/D2 AAM/SBB/SAJ 502C/513A/507A",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DAA SAJ",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "TY MDM PR A1/A2/A3/A4 SAJ/BPC/ARK/SAS 402/402/402/402 JJ/B2/B3/B4 X1/X2/X3/X4 507A/513B/511A/511B C1/C2/C3 X1/X2/X3 502A/502B/502C",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CN SBB",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "DBMS AAM",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B AMP/SLK/DRD/SBB/SRV 517/508/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "DBMS/CN/DAA D3/D4/D1 AAM/SBB/SAJ 513B/513A/507A",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "DOUBLE MINOR ( Privacy & Security) X1 525 (online)",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TY CPM",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "BTECH A DIV",
+        "name": "Room BTECH A DIV",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CDevOpsE AKP 525",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CDE/CS/AIAD A1/A2/A3 LNJ/RAM/PPK 502A/502C/512",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "PEC-QC/AVR A/B /HPC SLK/GRT/VBS/SAS 508/108B/109/108A",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM ML TH A/B 108A/108B/AKP/X1",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CD BPC",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "CS PSD",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CDevOpsE AKP 525",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CDE/CS/AIAD A2/A3/A44 LNJ/PSD/PPK 502A/513B/512",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "PEC-QC/AVR A/B /HPC SLK/GRT/VBS/SAS 508/108B/109/108A",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM ML TH A/B 108A/108B/AKP/X1",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CS PSD",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "CD BPC",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CDevOpsE AKP 525",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "PEC-DL/FNLP/R&AI A /B BSA/SRC/AAM/RAM 108A/108B/109/508",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CD BPC",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CDE LNJ",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM ML TH A/B 108A/108B/AKP/X1",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "BTECH MDM Minor Project",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Double Minor CPS X1 526",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CDE/CS/AIAD A3/A4/A1 LNJ/RAM/PPK 502A/515/512",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CD E LNJ",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM ML TH A/B 108A/108B/AKP/X1",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CS PSD",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Double Minor CPS X1 526",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CDE LNJ",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "PEC-DL/FNLP/R&AI A /B BSA/SRC/AAM/RAM 108A/108B/109/508",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CDE/CS/AIAD A4/A1/A2 LNJ/RAA/PPK 502A/502C/512",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "BTECH MDM Minor Project",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Double Minor CPS X1 526",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "Major Project-II",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "BTECH CPM Major Project-II",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "Major Project-II",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "BTECH B DIV ",
+        "name": "Room BTECH B DIV ",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CDevOpsE AKP 525",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CDE DRD",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "PEC-QC/AVR A/B /HPC SLK/GRT/VBS/SAS 508/108B/109/108A",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM TH A/B 108A/108B",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CDE/CS/AIAD B1/B2/B3 DRD/RAM/PMA 502C/514/511B",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CDevOpsE AKP 525",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CDE/CS/AIAD B4/B1/B2 DRD/RAM/PMA 502C/515/511B",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "PEC-QC/AVR A/B /HPC SLK/GRT/VBS/SAS 508/108B/109/108A",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM TH A/B 108A/108B",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CDE/CS/AIAD B2/B3/B4 DRD/RAM/PMA 502C/514/511B",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CDevOpsE AKP 525",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "PEC-DL/FNLP/R&AI A /B BSA/SRC/AAM/RAM 108A/108B/109/508",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CS RAM",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CD BBG",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM TH A/B 108A/108B",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "BTECH MDM Minor Project",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Double Minor CPS X1 526",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CD BBG",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CDE DRD",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CS RAM",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM TH A/B 108A/108B",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CDE/CS/AIAD B3/B4/B1 DRD/RAM/PMA 502C/515/513A",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Double Minor CPS X1 526",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CDE DRD",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "PEC-DL/FNLP/R&AI A /B BSA/SRC/AAM/RAM 108A/108B/109/508",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CD BBG",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "CS RAM",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "BTECH MDM Minor Project",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Double Minor CPS X1 526",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "Major Project-II",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "BTECH CPM Major Project-II",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "Major Project-II",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "BTECH C DIV ",
+        "name": "Room BTECH C DIV ",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CDevOpsE AKP 525",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CDE/CS/AIAD C1/C2/C3 AES/PDS/SHZ 514/515/402",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "PEC-QC/AVR A/B /HPC SLK/GRT/VBS/SAS 508/108B/109/108A",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM TH A/B 108A/108B",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CD ARK",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "CS RAA",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CDevOpsE AKP 525",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CDE/CS/AIAD C2/C3/C4 AES/PDS/SHZ 514/402/402",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "PEC-QC/AVR A/B /HPC SLK/GRT/VBS/SAS 508/108B/109/108A",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM TH A/B 108A/108B",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CDE AES",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "CD ARK",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "HONOR CDevOpsE AKP 525",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "PEC-DL/FNLP/R&AI A /B BSA/SRC/AAM/RAM 108A/108B/109/508",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CDE AES",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CS RAA",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM TH A/B 108A/108B",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "BTECH MDM Minor Project",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Double Minor CPS X1 526",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CDE/CS/AIAD C3/C4/C1 AES/X1/SHZ 514/506B/402",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CD ARK",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "BTECH MDM TH A/B 108A/108B",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CDE AES",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "CS RAA",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Double Minor CPS X1 526",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "PEC-DL/FNLP/R&AI A /B BSA/SRC/AAM/RAM 108A/108B/109/508",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CDE/CS/AIAD C4/C1/C2 AES/X1/SHZ 514/515/402",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "BTECH MDM Minor Project",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Double Minor CPS X1 526",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "Major Project-II",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "BTECH CPM Major Project-II",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "Major Project-II",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "MTECH-CST",
+        "name": "Room MTECH-CST",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CS(BSS)",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "ADS(SRC)",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "PEC BTC (BSA)",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PAM(SLK)",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CS(BSS)",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CS(BSS)",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "ADS(SRC)",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "PEC BTC (BSA)",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PAM(SLK)",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "AIP OE-I (AAM)",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "ADS(SRC)",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "AIP OE-I (AAM)",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "PEC BTC (BSA)",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PAM(SLK)",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "Mini Project",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CS(BSS)",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "ADS(SRC)",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "AIP OE-I (AAM)",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "Mini Project",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CS/RAA/515",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "ADS/PSD/515",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "NON NEP TY",
+        "name": "Room NON NEP TY",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Smartboard"
+        ],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "ML BPC",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "CC AES",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "TGS",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "OE-III-DM DRL",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CNS PR AMP 402",
+                "faculty": ""
+            },
+            {
+                "day": "MONDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "MAJOR PROJECT",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "PCD BPC",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "ML BPC",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "OE-III-DM DRL",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "ML PR ARK 502B",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CC AES",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "PCD BPC",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "OE-III-DM DRL",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "PCD PR BPC",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "MDM- CNS TH B AMP 108B",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CC PR AES",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "CC AES",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "ML BPC",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "MDM- CNS TH B AMP 108B",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "CPM",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "8:00\u20139:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "9:00\u201310:00",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "PCD BPC",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "MDM- CNS TH B AMP 108B",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "Free",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "Free",
+                "faculty": ""
+            }
+        ]
     }
 ]

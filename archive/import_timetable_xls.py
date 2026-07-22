@@ -382,6 +382,7 @@ def write_room_pages(rooms, template_path, output_dir):
 
 def convert_workbooks(input_paths, output_path, room_template_path, pages_output_dir):
     selected_by_room = {}
+    generated_pages = []
 
     for input_index, input_path in enumerate(input_paths):
         for sheet in load_workbook_sheets(input_path):

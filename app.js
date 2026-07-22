@@ -78,7 +78,7 @@ function initHomePage() {
                 const { status, colorClass } = getRoomStatusSummary(room);
                 
                 const card = document.createElement('a');
-                card.href = room.page || `room.html?id=${room.id}`;
+                card.href = getRoomPageHref(room);
                 card.className = 'room-card';
                 card.innerHTML = `
                     <div class="room-card-header">
@@ -114,6 +114,19 @@ function initHomePage() {
     // Hide loader and initial render
     loader.classList.add('hidden');
     renderRooms();
+}
+
+function getRoomPageHref(room) {
+    if (room?.page) {
+        return room.page;
+    }
+
+    const roomId = String(room?.id || '').trim();
+    if (!roomId) {
+        return 'room.html';
+    }
+
+    return `rooms/${roomId.toLowerCase()}/`;
 }
 
 // ==========================================

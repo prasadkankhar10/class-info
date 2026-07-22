@@ -399,7 +399,8 @@ def convert_workbooks(input_paths, output_path, room_template_path, pages_output
     rooms = [item["room"] for item in selected_by_room.values()]
     rooms.sort(key=room_sort_key)
 
-    generated_pages = write_room_pages(rooms, room_template_path, pages_output_dir)
+    # Disable static page generation
+    # generated_pages = write_room_pages(rooms, room_template_path, pages_output_dir)
 
     output_path.write_text(json.dumps(rooms, indent=2), encoding="utf-8")
 

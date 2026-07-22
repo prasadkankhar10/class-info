@@ -1,0 +1,61 @@
+Smart Campus - Full Project Knowledge
+What It Is
+A client-side web app (vanilla HTML/CSS/JS, no build step, no backend) that lets students check live availability of classrooms and labs on campus. It's intended to be used via QR codes placed outside each room — scan → land on that room's page → see if it's free right now and its full weekly timetable.
+Repository
+- GitHub: prasadkankhar10/class-info (synced to origin/main)
+- Branch: main (6 commits)
+- Python venv: present (used only for offline data extraction, not the app itself)
+File Structure
+Smart Campus/
+├── index.html        # Home: grid of all 26 room cards w/ live Available/Occupied badge
+├── room.html         # Room detail: hero status, capacity, clock, equipment, day-tabbed timetable
+├── app.js           # ALL logic (422 lines) — shared by both pages, routes by DOM presence
+├── style.css        # Styles w/ CSS variables + light/dark theme (453 lines)
+├── data.json        # THE DATA — 26 rooms, ~6300 lines, generated from Excel
+├── .venv/           # Python env for the Excel import scripts
+└── archive/         # Data pipeline (Python) + source Excel workbooks
+    ├── import_timetable_xls.py   # ← Primary/latest importer (474 lines)
+    ├── extract_rooms.py          # Earlier iteration: inverts timetable → physical rooms
+    ├── build_json.py             # Earliest: per-sheet-→-room approach (superseded)
+    ├── analyze_cells.py          # Cell-level inspection helper (untracked/new)
+    ├── parse_xls.py              # Raw dump utility
+    ├── Most updated ...part-I.xls  # Source workbook CSE class timetables
+    ├── class timetable ...Part-II.xls
+    ├── LAB TimeTable ...xlsx
+    ├── xls_dump.txt / cell_analysis.txt
+Uncommitted changes: archive/build_json.py, archive/import_timetable_xls.py modified; archive/analyze_cells.py, archive/cell_analysis.txt untracked.
+How the App Works (app.js)
+1. fetchData() loads data.json (fails loudly if opened via file:// — must use a local server like http://localhost:8000).
+2. Router: calls initHomePage() if #rooms-grid exists, else initRoomPage() if #room-content exists. Same JS file serves both index.html and room.html.
+3. Home page: search box + All/Classrooms/Labs filter buttons → renders cards. Each card computes live status via getRoomStatusSummary() (checks today's slots against current time) and links to room.html?id=<roomId>.
+4. Room page: reads ?id= param (or body[data-room-id]), populates hero/status/capacity/clock/equipment, builds day selector tabs (Mon–Sat), renders that day's timetable, highlights the active slot if today, and refreshes status/clock every 60 seconds via setInterval.
+5. Time logic (app.js:348-407): parseTime() handles 9:00, 9.00, 9 am, and bare numbers 1–6 treated as PM afternoon sessions (campus convention). isCurrentSlot() splits on –/-. Free/Break/Recess subjects render as "Available".
+The Data (data.json)
+- 26 rooms (e.g. 108A, 108B, 109, 502A–C, 517–527): mix of lab and classroom, all capacity=60, empty equipment.
+- Each room has a timetable array of {day, slot, subject, faculty}. Slots use – (en-dash) separators: "9:00–10:00". Faculty is always "" (the source XLS embeds faculty initials inside the subject text, e.g. "HONOR CDevOpsE X1").
+- weeklyTimetable is not present in current data (the importer writes it but the current committed data.json predates/overrides it — see note below).
+Data Pipeline (the interesting part)
+Two generations of importers exist:
+- build_json.py (oldest): one sheet = one room; reads "Most updated ...part-I.xls"; hard-coded room list; outputs flat timetable.
+- extract_rooms.py (middle): inverts the timetable — scans each cell for embedded room codes like "524/526/527" and fans the slot out to each physical room. This matches commit fcd9f1e "Invert extraction to map timetables to physical rooms natively".
+- import_timetable_xls.py (latest, modified uncommitted): the most sophisticated. Uses xlrd for .xls + openpyxl for .xlsx, an adapter pattern for merged cells, parses W.E.F. dates + "(2)" sheet flags to deduplicate the same room across multiple workbooks (keeps the schedule with the most meaningful slots / newest WEF date / prefers non-(2) sheets), normalizes subjects (Free/Break/Vacant/Recess markers), and emits both weeklyTimetable (Mon–Sat keyed) and a timetable field. Has commented-out static-page generation (room-<id>.html) — currently disabled in favor of the single dynamic room.html?id= approach.
+Mismatch to be aware of: import_timetable_xls.py writes weeklyTimetable + a sorted/by-score dedup pass, but the committed data.json uses plain timetable arrays with many duplicate slots (the same Mon 1:15–2:15 entry appears dozens of times under the same room — visible in the dump for rooms 524/526/527). app.js's getRoomTimetableForDay() therefore has a "backward compatibility" branch (app.js:324-335) that filters by slot.day. So the live app works, but the data has noise from the inverted-extraction step that the latest importer was meant to clean up — and import_timetable_xls.py's output has not been regenerated/committed yet.
+Git History (narrative)
+1. 498b7b2 Initial "Smart Classroom QR System"
+2. 245b8e9 QR-code submodule → normal directory
+3. 2637b25 Day selector tabs added
+4. 773ae87 Cleanup: removed static HTML files, QR backup, archive scripts/data
+5. ed77010 Added all 26 rooms from Excel
+6. fcd9f1e Inverted extraction to physical rooms (current HEAD)
+Notable Technical Details / Quirks
+- No server: only static files; must be served (e.g. python -m http.server 8000) because fetch('data.json') needs HTTP. app.js:35 even alerts the user with this hint.
+- Theme: light/dark toggle persisted in localStorage('theme'); CSS uses [data-theme="dark"] variable overrides.
+- En-dash: timetable slots use – (U+2013), regex in app.js:375 & :399 accepts both – and -.
+- Afternoon convention: bare hour 1–6 with no AM/PM is treated as 13:00–18:00 (app.js:366-369) — campus timetable style.
+- Mobile-first: container caps at 600px; single-column grid.
+- No faculty field: faculty initials are baked into subject strings during extraction; app.js reserves a slot.faculty slot in the DOM but it's always empty.
+Potential Improvements (observed, not actioned — plan mode)
+1. data.json has heavy duplicate-slot noise (the "inverted extraction" over-fans-out). Regenerating from import_timetable_xls.py and committing its output would clean this up and add weeklyTimetable.
+2. build_json.py and extract_rooms.py are superseded; could be deleted/archive-only.
+3. archive/analyze_cells.py + cell_analysis.txt are untracked — worth committing or gitignoring.
+4. Equipment arrays are empty for all 26 rooms; capacity hard-coded to 60.

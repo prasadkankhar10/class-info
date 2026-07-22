@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-file_path = "C:\\Users\\prasa\\OneDrive\\Desktop\\ProjectOTG\\Smart Campus\\Most updated class timetable 26-27 part-I.xls"
+file_path = "C:\\Users\\prasa\\OneDrive\\Desktop\\ProjectOTG\\Smart Campus\\archive\\Most updated class timetable 26-27 part-I.xls"
 output_path = "C:\\Users\\prasa\\OneDrive\\Desktop\\ProjectOTG\\Smart Campus\\data.json"
 
 target_sheets = ['108A', '108B', '109', '517', '518', '519', '525', '520', '524', '526', '527']
@@ -19,10 +19,10 @@ def build():
     
     rooms_data = []
     
+    # Process all sheets found in the Excel file
+    target_sheets = xl.sheet_names
+    
     for sheet in target_sheets:
-        if sheet not in xl.sheet_names:
-            print(f"Warning: Sheet {sheet} not found!")
-            continue
             
         df = xl.parse(sheet)
         

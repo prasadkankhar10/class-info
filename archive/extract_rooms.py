@@ -46,9 +46,12 @@ def extract_explicit_rooms(cell_val):
     return list(rooms)
 
 def format_cell_content(cell_val):
-    # Replace multiple newlines with a single space or ' | '
-    lines = [line.strip() for line in cell_val.split('\n') if line.strip()]
-    return " | ".join(lines)
+    # Replace multiple newlines or large space gaps (2 or more spaces) with ' | '
+    # First convert \n to spaces just in case
+    val = cell_val.replace('\n', '   ')
+    # Replace 3 or more spaces with ' | '
+    val = re.sub(r'\s{3,}', ' | ', val)
+    return val.strip(' |')
 
 def build():
     print(f"Loading {file_path}...")
@@ -137,8 +140,22 @@ def build():
                         "faculty": "" # Faculty is embedded in the subject text now
                     })
 
-    # Sort timetable for each room by day (not strictly necessary but good)
-    # Then save to JSON
+    # Deduplicate and sort timetable for each room
+    for r_code, room_obj in rooms_db.items():
+        merged_slots = {}
+        for slot in room_obj["timetable"]:
+            key = (slot["day"], slot["slot"])
+            if key not in merged_slots:
+                merged_slots[key] = slot
+            else:
+                # Append subject to existing slot if it's not exactly the same
+                if slot["subject"] not in merged_slots[key]["subject"]:
+                    merged_slots[key]["subject"] += " <br>---<br> " + slot["subject"]
+        
+        # Convert dict back to list and sort
+        unique_slots = list(merged_slots.values())
+        room_obj["timetable"] = unique_slots
+
     out_list = sorted(list(rooms_db.values()), key=lambda x: x["name"])
     
     with open(output_path, 'w', encoding='utf-8') as f:

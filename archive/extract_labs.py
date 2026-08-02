@@ -71,7 +71,7 @@ def build():
             if not day:
                 continue
                 
-            for col_idx, timeslot in timeslots:
+            for idx, (col_idx, timeslot) in enumerate(timeslots):
                 cell_val = clean_text(df.iloc[r, col_idx])
                 
                 if not cell_val or cell_val.upper() == 'NAN':
@@ -82,9 +82,20 @@ def build():
                 # Format text
                 subject = " | ".join([line.strip() for line in cell_val.replace('\n', '   ').split('   ') if line.strip()])
                 
+                # Combine with next timeslot to create a 2-hour lab slot
+                merged_timeslot = timeslot
+                if idx + 1 < len(timeslots):
+                    next_timeslot = timeslots[idx + 1][1]
+                    try:
+                        start_time = timeslot.split('–')[0] if '–' in timeslot else timeslot.split('-')[0]
+                        end_time = next_timeslot.split('–')[1] if '–' in next_timeslot else next_timeslot.split('-')[1]
+                        merged_timeslot = f"{start_time}–{end_time}"
+                    except Exception:
+                        pass # fallback to single slot if parsing fails
+                
                 rooms_map[sheet]["timetable"].append({
                     "day": day,
-                    "slot": timeslot,
+                    "slot": merged_timeslot,
                     "subject": subject,
                     "faculty": ""
                 })

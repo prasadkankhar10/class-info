@@ -680,97 +680,97 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A1 DBMS TY(CSE) SAS | C3  AIAD B.Tech(CSE) SHZ | C1  DS  SY(CSE) | VBS | C4  DECA SY(CSE) SRV",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "A1  DS  SY(CSE) | SHZ | A4  DECA SY(CSE) VVJ | B4  DECA SY(CSE) PPK",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "E4  DECA SY(CSE) VVJ | F1  DS  SY(CSE) | AMP | F4  DECA SY(CSE) SRV",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A2 DBMS TY(CSE) SAS | A3 CN TY(CSE)JJ | B2 DBMS TY(CSE) RAA | C4  AIAD B.Tech(CSE) SHZ | C3  CS B.Tech(CSE) PDS",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "D2  DS  SY(CSE) | AMP | D3  DECA SY(CSE) DRL",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "A3  DECA SY(CSE) VVJ | B3  DECA SY(CSE) PPK | E3  DECA SY(CSE) X1 | F3  DECA SY(CSE) SRV",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A3  DS  SY(CSE) | SHZ | A2  DECA SY(CSE) VVJ | B2  DECA SY(CSE) PPK | B4 CN TY(CSE)GRT",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "D3  DS  SY(CSE) | JJ | D2  DECA SY(CSE) DRL",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "C2  DS  SY(CSE) | VBS | E3  DS  SY(CSE) | DRD | F3  DS  SY(CSE) | AMP | F2  DECA SY(CSE) SRV",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A3 DBMS TY(CSE) SAS | C3 DAA TY(CSE) AKP | C1  AIAD B.Tech(CSE) SHZ | F1  DECA SY(CSE) PDS",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "C4  DS  SY(CSE) | VBS | C1  DECA SY(CSE) PDS | D4  DS  SY(CSE) | JJ | D1  DECA SY(CSE) DRL",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "A1  LOS  TY (MDM) SAJ | A2  LOS  TY (MDM) BPC | A3  LOS  TY (MDM) ARK | A4  LOS  TY (MDM) SAS",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A4 DBMS TY(CSE) SAS | A4  DS  SY(CSE) | VBS | A1  DECA SY(CSE) SRV | B1  DECA SY(CSE) DRL",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "C3  DS  SY(CSE) | VBS | C2  DECA SY(CSE) PDS | D1  DS  SY(CSE) | JJ | D4  DECA SY(CSE) DRL",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -785,55 +785,55 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A1 CDE B.Tech(CSE) LNJ",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "C3  DBMS TY(CSE) X1",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A2 CDE B.Tech(CSE) LNJ",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A3 CDE B.Tech(CSE) LNJ",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C2  DBMS TY(CSE) PSD",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "A4 CDE B.Tech(CSE) LNJ",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "C4  DBMS TY(CSE) SAS",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -848,73 +848,73 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10\u201310:15",
+                "slot": "10\u201311:15",
                 "subject": "R  E  C  E  S S",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B2  CN TY(CSE) GRT",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "C4  CN TY(CSE)",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B3  CN TY(CSE) GRT",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "A2  DS  SY(CSE) | SHZ",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C2  CN TY(CSE) GRT",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "C2  LOS  TY (MDM) SP",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C3  CN TY(CSE) GRT",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "C2  AIAD B.Tech(CSE) SHZ",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "C1  CN TY(CSE) PMA",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -929,79 +929,79 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10\u201310:15",
+                "slot": "10\u201311:15",
                 "subject": "R  E  C  E  S S",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A2  CS B.Tech(CSE) RAM",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "C1 DAA TY(CSE) ARK",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B1  CDE B.Tech(CSE) DRD",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B4  CDE B.Tech(CSE) DRD",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B2  CDE B.Tech(CSE) DRD",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A4 DBMS TY(CSE) AAM",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "C3  LOS  TY (MDM) SP",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C4 DAA TY(CSE) AKP",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "A1  CS B.Tech(CSE) RAA",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "C2 DAA TY(CSE) ARK",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -1016,19 +1016,19 @@
         "timetable": [
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C4  CS B.Tech(CSE) X1",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -1043,73 +1043,73 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B3 DAA TY(CSE) ARK",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "D3 DAA TY(CSE) SAJ",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B4 DAA TY(CSE) ARK",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "D4 DAA TY(CSE) SAJ",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "F2 DS SY(CSE) VBS",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B1 DAA TY(CSE) AKP",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "D2 DAA TY(CSE) SAJ",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B1  LOS  TY (MDM) JJ",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B2 DAA TY(CSE) ARK",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "D1 DAA TY(CSE) SAJ",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -1313,55 +1313,55 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10\u201310:15",
+                "slot": "10\u201311:15",
                 "subject": "R  E  C  E  S S",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A3 DAA TY(CSE) BPC",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A4 DAA TY(CSE) BPC",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "E2 DS SY(CSE) AMP",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A1 DAA TY(CSE) BPC",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B3  CDE B.Tech(CSE) DRD",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A2 DAA TY(CSE) BPC",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -1376,61 +1376,61 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10\u201310:15",
+                "slot": "10\u201311:15",
                 "subject": "R  E  C  E  S S",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B3  AIAD B.Tech(CSE) PMA",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B2  AIAD B.Tech(CSE) PMA",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B4  AIAD B.Tech(CSE) PMA",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "F4 DS SY(CSE) AMP",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "E4 DS SY(CSE)",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B1  AIAD B.Tech(CSE) PMA",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A1  CN TY(CSE) PMA",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -1445,79 +1445,79 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A3  AIAD B.Tech(CSE) PPK",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "B1 DS SY(CSE) BBG",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "E1 DS SY(CSE) BBG",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A4  AIAD B.Tech(CSE) PPK",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B2 DS SY(CSE) BBG",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B3 DS SY(CSE) BBG",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "C3  DECA SY(CSE) SRV",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A1  AIAD B.Tech(CSE) PPK",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "E1 DECA SY(CSE) VVJ",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B4 DS SY(CSE) BBG",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "A2  AIAD B.Tech(CSE) PPK",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -1532,43 +1532,43 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A2  CN TY(CSE) SBB",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "D2  CN TY(CSE) SBB",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "D3  CN TY(CSE) SBB",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "D1  CN TY(CSE) SBB",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "D4  CN TY(CSE) SBB",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -1583,55 +1583,55 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B1 DBMS TY(CSE) RAA",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "D1 DBMS TY(CSE) AAM",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A3 CS B.Tech(CSE) PSD",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "D2 DBMS TY(CSE) AAM",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "E2  DECA SY(CSE) X1",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C1 DBMS TY(CSE) PSD",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "D3 DBMS TY(CSE) AAM",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -1646,55 +1646,55 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C1  CDE B.Tech(CSE) AES",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B2  CS B.Tech(CSE) RAM",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C2  CDE B.Tech(CSE) AES",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B3  CS B.Tech(CSE) RAM",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C3  CDE B.Tech(CSE) AES",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B1  CN TY(CSE) AES",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "C4  CDE B.Tech(CSE) AES",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -1709,43 +1709,43 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C2  CS B.Tech(CSE) PDS",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "B1  CS B.Tech(CSE) RAM",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "A4  CS B.Tech(CSE) RAM",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B4  CS B.Tech(CSE) RAM",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "C1  CS B.Tech(CSE) GRT",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "Major Project-II",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "TGS",
                 "faculty": ""
             }
@@ -1760,67 +1760,67 @@
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C3  PE  SY(CSE) VSN",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "B3  PE  SY(CSE)VSN",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "A3  PE  SY(CSE) VSN",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C2  PE  SY(CSE) VSN",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "B2  PE  SY(CSE)X1",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "A2  PE  SY(CSE) VSN",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "10:15\u201311:15",
+                "slot": "10:15\u201312:15",
                 "subject": "C1  PE  SY(CSE) VSN",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "D2  PE  SY(CSE)VSN",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "3:30\u20134:30",
+                "slot": "3:30\u20135:30",
                 "subject": "B4  PE  SY(CSE) ASS",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "A1  PE  SY(CSE) VSN",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "1:15\u20132:15",
+                "slot": "1:15\u20133:15",
                 "subject": "A4  PE  SY(CSE) VSN",
                 "faculty": ""
             }

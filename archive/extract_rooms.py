@@ -61,6 +61,9 @@ def build():
     rooms_db = {}
     
     def get_room(room_code):
+        if room_code == "109C":
+            room_code = "109"
+            
         if room_code not in rooms_db:
             rooms_db[room_code] = {
                 "id": room_code,
@@ -73,9 +76,15 @@ def build():
         return rooms_db[room_code]
 
     for sheet in xl.sheet_names:
+        if sheet == "109":
+            print(f"Skipping outdated sheet '{sheet}'...")
+            continue
+            
         df = xl.parse(sheet)
         
         primary_room = extract_primary_room(df, sheet)
+        if primary_room == "109C":
+            primary_room = "109"
         print(f"Sheet '{sheet}': Primary Room = {primary_room}")
         
         # Find timing row

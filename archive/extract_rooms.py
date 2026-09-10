@@ -156,8 +156,8 @@ def build():
         unique_slots = list(merged_slots.values())
         room_obj["timetable"] = unique_slots
 
-    # Filter out 402 as requested
-    out_list = sorted([r for r in rooms_db.values() if r["id"] != "402"], key=lambda x: x["name"])
+    # Filter out 402, 408, 427 as requested
+    out_list = sorted([r for r in rooms_db.values() if r["id"] not in ["402", "408", "427"]], key=lambda x: x["name"])
     
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(out_list, f, indent=4)

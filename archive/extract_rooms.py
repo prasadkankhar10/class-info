@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import re
 
-file_path = "C:\\Users\\prasa\\OneDrive\\Desktop\\ProjectOTG\\Smart Campus\\archive\\Most updated class timetable 26-27 part-I.xls"
+file_path = "C:\\Users\\prasa\\OneDrive\\Desktop\\ProjectOTG\\Smart Campus\\archive\\Most updated class timetable 26-27 part for NBA-I.xls"
 output_path = "C:\\Users\\prasa\\OneDrive\\Desktop\\ProjectOTG\\Smart Campus\\data.json"
 
 days_of_week = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"]
@@ -156,7 +156,8 @@ def build():
         unique_slots = list(merged_slots.values())
         room_obj["timetable"] = unique_slots
 
-    out_list = sorted(list(rooms_db.values()), key=lambda x: x["name"])
+    # Filter out 402 as requested
+    out_list = sorted([r for r in rooms_db.values() if r["id"] != "402"], key=lambda x: x["name"])
     
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(out_list, f, indent=4)

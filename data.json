@@ -15,7 +15,7 @@
             {
                 "day": "MONDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B/AKP/X1",
+                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B | MSK  /AKP",
                 "faculty": ""
             },
             {
@@ -39,7 +39,7 @@
             {
                 "day": "TUESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B/AKP/X1",
+                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B | MSK  /AKP",
                 "faculty": ""
             },
             {
@@ -75,7 +75,7 @@
             {
                 "day": "WEDNESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B/AKP/X1",
+                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B | MSK  /AKP",
                 "faculty": ""
             },
             {
@@ -99,7 +99,7 @@
             {
                 "day": "THURSDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> DM&LA  PSB 108A <br>---<br> BTECH MDM ML  TH A/B | 108A/108B/AKP/X1",
+                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B | MSK  /AKP",
                 "faculty": ""
             },
             {
@@ -163,6 +163,24 @@
                 "faculty": ""
             },
             {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "UHV  PR 108A  NC",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "UHV  108A  NC",
+                "faculty": ""
+            },
+            {
+                "day": "TUESDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "UHV  YDS 108A",
+                "faculty": ""
+            },
+            {
                 "day": "MONDAY",
                 "slot": "11:15\u201312:15",
                 "subject": "DM&LA  PSB 108A",
@@ -171,25 +189,25 @@
             {
                 "day": "MONDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 508/108B/109/108A",
+                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 108A/108B/109/520",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 508/108B/109/108A",
+                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 108A/108B/109/520",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/508",
+                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/518",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "11:15\u201312:15",
-                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/508",
+                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/519/518",
                 "faculty": ""
             }
         ]
@@ -204,25 +222,25 @@
             {
                 "day": "MONDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B/AKP/X1",
+                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B | MSK  /AKP",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B/AKP/X1",
+                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B | MSK  /AKP",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B/AKP/X1",
+                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B | MSK  /AKP",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B/AKP/X1",
+                "subject": "BTECH MDM  TH A/B | 108A/108B <br>---<br> BTECH MDM ML  TH A/B | 108A/108B | MSK  /AKP",
                 "faculty": ""
             },
             {
@@ -288,7 +306,7 @@
             {
                 "day": "THURSDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "CS | RAM <br>---<br> MDM- CNS TH | B | AMP | 108B",
+                "subject": "CS | RAM",
                 "faculty": ""
             },
             {
@@ -306,7 +324,7 @@
             {
                 "day": "FRIDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "CD BPC <br>---<br> MDM- CNS TH | B | AMP | 108B",
+                "subject": "CD BPC",
                 "faculty": ""
             },
             {
@@ -348,49 +366,43 @@
             {
                 "day": "MONDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "TY MDM  TH A/B/C  SAJ/JJ/X2 | 108B/508/517",
+                "subject": "TY MDM  LOS TH A/B/C | SAJ/JJ/PSB | 520/108B/517",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "TY MDM  TH A/B/C  SAJ/JJ/X2 | 108B/508/517",
+                "subject": "TY MDM  LOS TH A/B/C | SAJ/JJ/PSB | 520/108B/517",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "TY MDM  TH A/B/C  SAJ/JJ/X2 | 108B/508/517",
+                "subject": "TY MDM  LOS TH A/B/C | SAJ/JJ/PSB | 520/108B/517",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 508/108B/109/108A",
+                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 108A/108B/109/520",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 508/108B/109/108A",
+                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 108A/108B/109/520",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/508",
+                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/518",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "11:15\u201312:15",
-                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/508",
-                "faculty": ""
-            },
-            {
-                "day": "SATURDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "MDM- CNS TH | B | AMP | 108B",
+                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/519/518",
                 "faculty": ""
             }
         ]
@@ -513,7 +525,7 @@
             {
                 "day": "SATURDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "Major Project-II",
+                "subject": "Major Project-II <br>---<br> UHV PR | NC | 109",
                 "faculty": ""
             },
             {
@@ -535,39 +547,39 @@
                 "faculty": ""
             },
             {
-                "day": "WEDNESDAY",
+                "day": "FRIDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "UHV  NC 109",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "UHV  X1 109",
+                "subject": "DM&LA  PSB 109",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "UHV PR X1 109",
+                "subject": "UHV PR | NC | 109",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 508/108B/109/108A",
+                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 108A/108B/109/520",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 508/108B/109/108A",
+                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 108A/108B/109/520",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/508",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/508",
+                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/518",
                 "faculty": ""
             }
         ]
@@ -672,106 +684,136 @@
         ]
     },
     {
-        "id": "402",
-        "name": "402",
+        "id": "307B",
+        "name": "307B",
+        "type": "lab",
+        "capacity": 60,
+        "equipment": [],
+        "timetable": [
+            {
+                "day": "MONDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "OE-IV | EV | AVG 307B",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "317",
+        "name": "317",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [],
+        "timetable": [
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM | CA TH A/B/C | VVJ/GRT/ PSB | 427/E-4/317",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM | CA TH A/B/C | VVJ/GRT/ PSB | 427/E-4/317",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "319",
+        "name": "319",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [],
+        "timetable": [
+            {
+                "day": "TUESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "OE-IV | EV AVG 319",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "OE-IV | EV AVG 319",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "408",
+        "name": "408",
         "type": "classroom",
         "capacity": 60,
         "equipment": [],
         "timetable": [
             {
                 "day": "MONDAY",
-                "slot": "10:15\u201312:15",
-                "subject": "A1 DBMS TY(CSE) SAS | C3  AIAD B.Tech(CSE) SHZ | C1  DS  SY(CSE) | VBS | C4  DECA SY(CSE) SRV",
-                "faculty": ""
-            },
-            {
-                "day": "MONDAY",
-                "slot": "1:15\u20133:15",
-                "subject": "A1  DS  SY(CSE) | SHZ | A4  DECA SY(CSE) VVJ | B4  DECA SY(CSE) PPK",
-                "faculty": ""
-            },
-            {
-                "day": "MONDAY",
-                "slot": "3:30\u20135:30",
-                "subject": "E4  DECA SY(CSE) VVJ | F1  DS  SY(CSE) | AMP | F4  DECA SY(CSE) SRV",
+                "slot": "9:00\u201310:00",
+                "subject": "RSCC | NPTEL ONLINE",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
-                "slot": "10:15\u201312:15",
-                "subject": "A2 DBMS TY(CSE) SAS | A3 CN TY(CSE)JJ | B2 DBMS TY(CSE) RAA | C4  AIAD B.Tech(CSE) SHZ | C3  CS B.Tech(CSE) PDS",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "1:15\u20133:15",
-                "subject": "D2  DS  SY(CSE) | AMP | D3  DECA SY(CSE) DRL",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "3:30\u20135:30",
-                "subject": "A3  DECA SY(CSE) VVJ | B3  DECA SY(CSE) PPK | E3  DECA SY(CSE) X1 | F3  DECA SY(CSE) SRV",
+                "slot": "9:00\u201310:00",
+                "subject": "RSCC | NPTEL ONLINE",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "10:15\u201312:15",
-                "subject": "A3  DS  SY(CSE) | SHZ | A2  DECA SY(CSE) VVJ | B2  DECA SY(CSE) PPK | B4 CN TY(CSE)GRT",
+                "slot": "9:00\u201310:00",
+                "subject": "RSCC | NPTEL ONLINE",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "1:15\u20133:15",
-                "subject": "D3  DS  SY(CSE) | JJ | D2  DECA SY(CSE) DRL",
-                "faculty": ""
-            },
-            {
-                "day": "WEDNESDAY",
-                "slot": "3:30\u20135:30",
-                "subject": "C2  DS  SY(CSE) | VBS | E3  DS  SY(CSE) | DRD | F3  DS  SY(CSE) | AMP | F2  DECA SY(CSE) SRV",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "10:15\u201312:15",
-                "subject": "A3 DBMS TY(CSE) SAS | C3 DAA TY(CSE) AKP | C1  AIAD B.Tech(CSE) SHZ | F1  DECA SY(CSE) PDS",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "1:15\u20133:15",
-                "subject": "C4  DS  SY(CSE) | VBS | C1  DECA SY(CSE) PDS | D4  DS  SY(CSE) | JJ | D1  DECA SY(CSE) DRL",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "3:30\u20135:30",
-                "subject": "A1  LOS  TY (MDM) SAJ | A2  LOS  TY (MDM) BPC | A3  LOS  TY (MDM) ARK | A4  LOS  TY (MDM) SAS",
+                "slot": "3:30\u20134:30",
+                "subject": "IPR | DGR | 408",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "10:15\u201312:15",
-                "subject": "A4 DBMS TY(CSE) SAS | A4  DS  SY(CSE) | VBS | A1  DECA SY(CSE) SRV | B1  DECA SY(CSE) DRL",
+                "slot": "3:30\u20134:30",
+                "subject": "IPR | DGR | 408",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "IPR | DGR | 408",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "Reserch Project Phase-I",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "Reserch Project Phase-I",
+                "faculty": ""
+            }
+        ]
+    },
+    {
+        "id": "427",
+        "name": "427",
+        "type": "classroom",
+        "capacity": 60,
+        "equipment": [],
+        "timetable": [
+            {
+                "day": "THURSDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM | CA TH A/B/C | VVJ/GRT/ PSB | 427/E-4/317",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "1:15\u20133:15",
-                "subject": "C3  DS  SY(CSE) | VBS | C2  DECA SY(CSE) PDS | D1  DS  SY(CSE) | JJ | D4  DECA SY(CSE) DRL",
-                "faculty": ""
-            },
-            {
-                "day": "SATURDAY",
-                "slot": "1:15\u20133:15",
-                "subject": "Major Project-II",
-                "faculty": ""
-            },
-            {
-                "day": "SATURDAY",
-                "slot": "3:30\u20135:30",
-                "subject": "TGS",
+                "slot": "3:30\u20134:30",
+                "subject": "SY MDM | CA TH A/B/C | VVJ/GRT/ PSB | 427/E-4/317",
                 "faculty": ""
             }
         ]
@@ -1125,109 +1167,19 @@
             {
                 "day": "THURSDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "MDM-IAI | BBG/PMA | 508/517 <br>---<br> DECA  X1",
+                "subject": "MDM-IAI | BBG/PMA | 508/517",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "MDM-IAI | BBG/PMA | 508/517 <br>---<br> CEP",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "Double Minor EH SHZ | 508/ | Honor DSCC  AMP 518",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "4:30\u20135:30",
-                "subject": "Double Minor EH SHZ | 508/ | Honor DSCC  AMP 518 <br>---<br> SY OE-I  TH",
+                "subject": "MDM-IAI | BBG/PMA | 508/517",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "Double Minor EH SHZ | 508/ | Honor DSCC  AMP 518 <br>---<br> CEP",
-                "faculty": ""
-            },
-            {
-                "day": "MONDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "UHV  X1",
-                "faculty": ""
-            },
-            {
-                "day": "MONDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "DECA  X1",
-                "faculty": ""
-            },
-            {
-                "day": "MONDAY",
-                "slot": "2:15\u20133:15",
-                "subject": "DM&LA  SP",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "LIBRARY",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "DS  DRL",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "2:15\u20133:15",
-                "subject": "EEM  AGM",
-                "faculty": ""
-            },
-            {
-                "day": "WEDNESDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "TGS <br>---<br> PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/508",
-                "faculty": ""
-            },
-            {
-                "day": "WEDNESDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "DS  DRL",
-                "faculty": ""
-            },
-            {
-                "day": "WEDNESDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "EEM  AGM",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "DM&LA  SP",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "4:30\u20135:30",
-                "subject": "SY OE-I  TH",
-                "faculty": ""
-            },
-            {
-                "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "LIBRARY",
-                "faculty": ""
-            },
-            {
-                "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "LIBRARY",
+                "subject": "UHV PR  YDS 508",
                 "faculty": ""
             },
             {
@@ -1237,69 +1189,15 @@
                 "faculty": ""
             },
             {
-                "day": "MONDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "TY MDM  TH A/B/C  SAJ/JJ/X2 | 108B/508/517",
-                "faculty": ""
-            },
-            {
                 "day": "TUESDAY",
                 "slot": "9:00\u201310:00",
                 "subject": "HONOR CI&S  BSS 508",
                 "faculty": ""
             },
             {
-                "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "TY MDM  TH A/B/C  SAJ/JJ/X2 | 108B/508/517",
-                "faculty": ""
-            },
-            {
                 "day": "WEDNESDAY",
                 "slot": "9:00\u201310:00",
                 "subject": "HONOR CI&S  BSS 508",
-                "faculty": ""
-            },
-            {
-                "day": "WEDNESDAY",
-                "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
-                "faculty": ""
-            },
-            {
-                "day": "WEDNESDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "TY MDM  TH A/B/C  SAJ/JJ/X2 | 108B/508/517",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
-                "faculty": ""
-            },
-            {
-                "day": "MONDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 508/108B/109/108A",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 508/108B/109/108A",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/508",
                 "faculty": ""
             }
         ]
@@ -1836,7 +1734,7 @@
             {
                 "day": "MONDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "OS  AES",
+                "subject": "OS  AES <br>---<br> TGS",
                 "faculty": ""
             },
             {
@@ -1860,19 +1758,19 @@
             {
                 "day": "MONDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "Vacant Slot <br>---<br> TY MDM  TH A/B/C  SAJ/JJ/X2 | 108B/508/517",
+                "subject": "Vacant Slot <br>---<br> TY MDM  LOS TH A/B/C | SAJ/JJ/PSB | 520/108B/517",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "OOPJ  PMA",
+                "subject": "OOPJ  PMA <br>---<br> LIBRARY",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
                 "slot": "11:15\u201312:15",
-                "subject": "OS  AES",
+                "subject": "OS  AES <br>---<br> DS  DRL  517",
                 "faculty": ""
             },
             {
@@ -1890,13 +1788,13 @@
             {
                 "day": "TUESDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "Vacant Slot <br>---<br> TY MDM  TH A/B/C  SAJ/JJ/X2 | 108B/508/517",
+                "subject": "Vacant Slot <br>---<br> TY MDM  LOS TH A/B/C | SAJ/JJ/PSB | 520/108B/517",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "OS  AES",
+                "subject": "OS  AES <br>---<br> LIBRARY",
                 "faculty": ""
             },
             {
@@ -1914,13 +1812,13 @@
             {
                 "day": "WEDNESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "I&E DRD <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "I&E DRD <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "ES  PR | APJ <br>---<br> TY MDM  TH A/B/C  SAJ/JJ/X2 | 108B/508/517",
+                "subject": "ES  PR | APJ <br>---<br> TY MDM  LOS TH A/B/C | SAJ/JJ/PSB | 520/108B/517",
                 "faculty": ""
             },
             {
@@ -1950,7 +1848,7 @@
             {
                 "day": "FRIDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "MDM-IAI | BBG/PMA | 508/517",
+                "subject": "MDM-IAI | BBG/PMA | 508/517 <br>---<br> LIBRARY",
                 "faculty": ""
             },
             {
@@ -1962,7 +1860,7 @@
             {
                 "day": "FRIDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "Vacant Slot",
+                "subject": "Vacant Slot <br>---<br> CEP",
                 "faculty": ""
             },
             {
@@ -1980,25 +1878,25 @@
             {
                 "day": "SATURDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "Vacant Slot",
+                "subject": "Vacant Slot <br>---<br> CEP",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "Vacant Slot",
+                "subject": "Vacant Slot <br>---<br> LIBRARY",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
@@ -2017,6 +1915,18 @@
                 "day": "WEDNESDAY",
                 "slot": "9:00\u201310:00",
                 "subject": "HONOR CCF  PDS 517",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I  TH",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I  TH",
                 "faculty": ""
             },
             {
@@ -2055,163 +1965,31 @@
             {
                 "day": "FRIDAY",
                 "slot": "11:15\u201312:15",
-                "subject": "OEII-DC | AES/DRL | 517/518",
-                "faculty": ""
-            },
-            {
-                "day": "MONDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "OS  RAA",
-                "faculty": ""
-            },
-            {
-                "day": "MONDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "OOPJ  SAS",
-                "faculty": ""
-            },
-            {
-                "day": "MONDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "Vacant Slot",
-                "faculty": ""
-            },
-            {
-                "day": "MONDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "ES  PR | SMM",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "OOPJ  SAS",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "OS  RAA",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "Vacant Slot",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "Vacant Slot",
-                "faculty": ""
-            },
-            {
-                "day": "WEDNESDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "ES | SMM <br>---<br> DECA  PDS 518",
-                "faculty": ""
-            },
-            {
-                "day": "WEDNESDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "I&E VVJ",
-                "faculty": ""
-            },
-            {
-                "day": "WEDNESDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "TOC  BBG",
+                "subject": "OEII-DC | AES/DRL | 517/518 <br>---<br> PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/519/518",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "OOPJ  SAS <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> DM&LA  SP  518",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> DM&LA  SP  518",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527",
+                "faculty": ""
+            },
+            {
+                "day": "FRIDAY",
+                "slot": "2:15\u20133:15",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "Vacant Slot",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "Vacant Slot",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "I&E VVJ",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "2:15\u20133:15",
-                "subject": "TOC  BBG <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "Vacant Slot",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "Vacant Slot",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "OS  RAA <br>---<br> UHV PR X1 518",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "2:15\u20133:15",
-                "subject": "TOC  BBG <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "Double Minor EH SHZ | 508/ | Honor DSCC  AMP 518",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "4:30\u20135:30",
-                "subject": "Double Minor EH SHZ | 508/ | Honor DSCC  AMP 518",
-                "faculty": ""
-            },
-            {
-                "day": "SATURDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "Double Minor EH SHZ | 508/ | Honor DSCC  AMP 518",
-                "faculty": ""
-            },
-            {
-                "day": "SATURDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "Vacant Slot",
-                "faculty": ""
-            },
-            {
-                "day": "SATURDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "Vacant Slot",
-                "faculty": ""
-            },
-            {
-                "day": "SATURDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "Vacant Slot",
+                "subject": "DECA  PDS 518 <br>---<br> PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/109/518",
                 "faculty": ""
             },
             {
@@ -2316,7 +2094,7 @@
             {
                 "day": "WEDNESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "OOPJ  LNJ <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "OOPJ  LNJ <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> TGS <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
@@ -2346,7 +2124,7 @@
             {
                 "day": "FRIDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "Vacant Slot <br>---<br> TGS",
+                "subject": "Vacant Slot <br>---<br> DS  JJ 519",
                 "faculty": ""
             },
             {
@@ -2358,7 +2136,7 @@
             {
                 "day": "FRIDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "OOPJ  LNJ <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "OOPJ  LNJ <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
@@ -2388,7 +2166,7 @@
             {
                 "day": "THURSDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
@@ -2399,14 +2177,14 @@
             },
             {
                 "day": "FRIDAY",
-                "slot": "11:15\u201312:15",
-                "subject": "DS  JJ 519",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I  TH",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "4:30\u20135:30",
-                "subject": "SY OE-I  TH",
+                "slot": "11:15\u201312:15",
+                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 108A/108B/519/518",
                 "faculty": ""
             }
         ]
@@ -2421,13 +2199,13 @@
             {
                 "day": "MONDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 524/526/527/520 <br>---<br> TGS",
+                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 524/526/527/520 <br>---<br> PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 108A/108B/109/520",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 524/526/527/520 <br>---<br> DS  SHZ <br>---<br> PCD  BPC",
+                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 524/526/527/520 <br>---<br> DS  SHZ <br>---<br> PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 108A/108B/109/520",
                 "faculty": ""
             },
             {
@@ -2439,7 +2217,7 @@
             {
                 "day": "FRIDAY",
                 "slot": "11:15\u201312:15",
-                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 524/526/527/520 <br>---<br> PEC-DL/FNLP/R&AI | A /B | BSA/SRC/AAM/RAM | 524/526/527/520 <br>---<br> ML | BPC",
+                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 524/526/527/520 <br>---<br> PEC-DL/FNLP/R&AI | A /B | BSA/SRC/AAM/RAM | 524/526/527/520",
                 "faculty": ""
             },
             {
@@ -2463,25 +2241,25 @@
             {
                 "day": "THURSDAY",
                 "slot": "9:00\u201310:00",
-                "subject": "Double Minor  BBP  RAA  520 <br>---<br> DOUBLE MINOR CRL  X1 520",
+                "subject": "Double Minor  BBP  RAA  520 <br>---<br> DOUBLE MINOR CRL  PSB | 520",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "9:00\u201310:00",
-                "subject": "Double Minor  BBP  RAA  520 <br>---<br> DOUBLE MINOR CRL  X1 520",
+                "subject": "Double Minor  BBP  RAA  520 <br>---<br> DOUBLE MINOR CRL  PSB | 520",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
                 "slot": "9:00\u201310:00",
-                "subject": "Double Minor  BBP  RAA  520 <br>---<br> DOUBLE MINOR CRL  X1 520",
+                "subject": "Double Minor  BBP  RAA  520 <br>---<br> DOUBLE MINOR CRL  PSB | 520",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "Vacant Slot <br>---<br> CEP <br>---<br> PCD  BPC",
+                "subject": "Vacant Slot <br>---<br> CEP",
                 "faculty": ""
             },
             {
@@ -2499,25 +2277,25 @@
             {
                 "day": "MONDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "DM&LA  SP <br>---<br> ML | BPC",
+                "subject": "DM&LA  SP",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
                 "slot": "11:15\u201312:15",
-                "subject": "DECA  VVJ <br>---<br> CC  AES",
+                "subject": "DECA  VVJ",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "CEP",
+                "subject": "CEP <br>---<br> TY MDM  LOS TH A/B/C | SAJ/JJ/PSB | 520/108B/517",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "TGS <br>---<br> MAJOR PROJECT",
+                "subject": "TGS",
                 "faculty": ""
             },
             {
@@ -2529,37 +2307,31 @@
             {
                 "day": "TUESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "DECA  VVJ <br>---<br> ML | BPC",
+                "subject": "DECA  VVJ",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "DM&LA  SP <br>---<br> CC  AES",
+                "subject": "DM&LA  SP",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "DS  SHZ <br>---<br> LIBRARY",
+                "subject": "DS  SHZ",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "DECA  VVJ <br>---<br> PCD  BPC",
+                "subject": "DECA  VVJ <br>---<br> TY MDM  LOS TH A/B/C | SAJ/JJ/PSB | 520/108B/517",
                 "faculty": ""
             },
             {
                 "day": "WEDNESDAY",
                 "slot": "4:30\u20135:30",
-                "subject": "LIBRARY <br>---<br> OE-III-DM | DRL",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "UHV  PR X1 <br>---<br> PCD  PR | BPC",
+                "subject": "LIBRARY",
                 "faculty": ""
             },
             {
@@ -2571,13 +2343,7 @@
             {
                 "day": "THURSDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "DS  SHZ <br>---<br> LIBRARY",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "SY MDM  TH A/B/C | VVJ/GRT/X1  520/524/526 <br>---<br> CC  PR | AES",
+                "subject": "DS  SHZ",
                 "faculty": ""
             },
             {
@@ -2588,20 +2354,8 @@
             },
             {
                 "day": "FRIDAY",
-                "slot": "1:15\u20132:15",
-                "subject": "UHV  X1",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "EEM  PSK <br>---<br> LIBRARY",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "SY MDM  TH A/B/C | VVJ/GRT/X1  520/524/526 <br>---<br> SY MDM  TH A/B/C | VVJ/GRT/X1 520/524/526 <br>---<br> CPM",
+                "subject": "EEM  PSK",
                 "faculty": ""
             },
             {
@@ -2613,25 +2367,31 @@
             {
                 "day": "MONDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "OE-III-DM | DRL",
+                "subject": "DM&LA  SP  520",
+                "faculty": ""
+            },
+            {
+                "day": "WEDNESDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DS  DRL  520",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "10:15\u201311:15",
+                "subject": "DECA | MSK  520",
+                "faculty": ""
+            },
+            {
+                "day": "THURSDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DM&LA  SP  520",
                 "faculty": ""
             },
             {
                 "day": "TUESDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "OE-III-DM | DRL",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "4:30\u20135:30",
-                "subject": "LIBRARY",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "CC  AES",
+                "subject": "TY MDM  LOS TH A/B/C | SAJ/JJ/PSB | 520/108B/517",
                 "faculty": ""
             }
         ]
@@ -2682,13 +2442,13 @@
             {
                 "day": "WEDNESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 524/526 <br>---<br> EEM  PTB <br>---<br> UHV  X1",
+                "subject": "BTECH MDM  TH A/B | 524/526 <br>---<br> EEM  PTB <br>---<br> CEP <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 524/526 <br>---<br> DM&LA  SP",
+                "subject": "BTECH MDM  TH A/B | 524/526 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
@@ -2784,7 +2544,7 @@
             {
                 "day": "THURSDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "DS/DECA  A4/A3 VBS /VVJ <br>---<br> CEP",
+                "subject": "DS/DECA  A4/A3 VBS /VVJ",
                 "faculty": ""
             },
             {
@@ -2802,7 +2562,7 @@
             {
                 "day": "FRIDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "CEP <br>---<br> UHV PR X1",
+                "subject": "CEP",
                 "faculty": ""
             },
             {
@@ -2831,20 +2591,14 @@
             },
             {
                 "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "SY MDM  TH A/B/C | VVJ/GRT/X1  520/524/526",
+                "slot": "4:30\u20135:30",
+                "subject": "SY OE-I  TH",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "SY MDM  TH A/B/C | VVJ/GRT/X1  520/524/526 <br>---<br> SY MDM  TH A/B/C | VVJ/GRT/X1 520/524/526",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "4:30\u20135:30",
-                "subject": "SY OE-I  TH",
+                "slot": "2:15\u20133:15",
+                "subject": "CEP <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
@@ -2907,7 +2661,7 @@
             {
                 "day": "TUESDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "OOPJ  SRC <br>---<br> DECA  X1 525",
+                "subject": "OOPJ  SRC <br>---<br> DECA | MSK | 525",
                 "faculty": ""
             },
             {
@@ -2973,7 +2727,7 @@
             {
                 "day": "THURSDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "OS  BPC <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "OS  BPC <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
@@ -3021,31 +2775,31 @@
             {
                 "day": "WEDNESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
                 "slot": "9:00\u201310:00",
-                "subject": "DOUBLE MINOR  ( Privacy & Security) X1  525 (online)",
+                "subject": "DOUBLE MINOR  ( Privacy & Security) | 525 (online)",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "9:00\u201310:00",
-                "subject": "DOUBLE MINOR  ( Privacy & Security) X1  525 (online)",
+                "subject": "DOUBLE MINOR  ( Privacy & Security) | 525 (online)",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
                 "slot": "9:00\u201310:00",
-                "subject": "DOUBLE MINOR  ( Privacy & Security) X1  525 (online)",
+                "subject": "DOUBLE MINOR  ( Privacy & Security) | 525 (online)",
                 "faculty": ""
             },
             {
@@ -3084,7 +2838,7 @@
             {
                 "day": "TUESDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 524/526/527/520 <br>---<br> UHV PR X1",
+                "subject": "PEC-QC/AVR A/B /HPC | SLK/GRT/VBS/SAS | 524/526/527/520 <br>---<br> CEP",
                 "faculty": ""
             },
             {
@@ -3108,7 +2862,7 @@
             {
                 "day": "TUESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 524/526",
+                "subject": "BTECH MDM  TH A/B | 524/526 <br>---<br> EEM  AGM  526",
                 "faculty": ""
             },
             {
@@ -3120,37 +2874,19 @@
             {
                 "day": "THURSDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "BTECH MDM  TH A/B | 524/526",
-                "faculty": ""
-            },
-            {
-                "day": "THURSDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "SY MDM  TH A/B/C | VVJ/GRT/X1  520/524/526",
-                "faculty": ""
-            },
-            {
-                "day": "FRIDAY",
-                "slot": "3:30\u20134:30",
-                "subject": "SY MDM  TH A/B/C | VVJ/GRT/X1  520/524/526 <br>---<br> SY MDM  TH A/B/C | VVJ/GRT/X1 520/524/526",
+                "subject": "BTECH MDM  TH A/B | 524/526 <br>---<br> DM&LA  SP 526",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "TGS",
+                "subject": "DS  VBS",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
                 "slot": "4:30\u20135:30",
                 "subject": "LIBRARY",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "DS  VBS",
                 "faculty": ""
             },
             {
@@ -3162,7 +2898,7 @@
             {
                 "day": "TUESDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "CEP",
+                "subject": "LIBRARY",
                 "faculty": ""
             },
             {
@@ -3174,7 +2910,7 @@
             {
                 "day": "WEDNESDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "UHV  X1",
+                "subject": "TGS <br>---<br> EEM  AGM  526",
                 "faculty": ""
             },
             {
@@ -3209,14 +2945,8 @@
             },
             {
                 "day": "SATURDAY",
-                "slot": "10:15\u201311:15",
-                "subject": "CEP",
-                "faculty": ""
-            },
-            {
-                "day": "SATURDAY",
                 "slot": "1:15\u20132:15",
-                "subject": "LIBRARY",
+                "subject": "CEP",
                 "faculty": ""
             },
             {
@@ -3226,21 +2956,27 @@
                 "faculty": ""
             },
             {
+                "day": "MONDAY",
+                "slot": "11:15\u201312:15",
+                "subject": "DECA  MSK | 526",
+                "faculty": ""
+            },
+            {
                 "day": "THURSDAY",
                 "slot": "9:00\u201310:00",
-                "subject": "Double Minor CPS X1 526",
+                "subject": "Double Minor CPS MSK  526",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "9:00\u201310:00",
-                "subject": "Double Minor CPS X1 526",
+                "subject": "Double Minor CPS MSK  526",
                 "faculty": ""
             },
             {
                 "day": "SATURDAY",
                 "slot": "9:00\u201310:00",
-                "subject": "Double Minor CPS X1 526",
+                "subject": "Double Minor CPS MSK  526",
                 "faculty": ""
             }
         ]
@@ -3267,7 +3003,7 @@
             {
                 "day": "WEDNESDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 524/526/527/520 <br>---<br> PEC-DL/FNLP/R&AI | A /B | BSA/SRC/AAM/RAM | 524/526/527/520 <br>---<br> UHV  X1",
+                "subject": "PEC-DL/FNLP/R&AI A /B | BSA/SRC/AAM/RAM | 524/526/527/520 <br>---<br> PEC-DL/FNLP/R&AI | A /B | BSA/SRC/AAM/RAM | 524/526/527/520 <br>---<br> LIBRARY",
                 "faculty": ""
             },
             {
@@ -3279,19 +3015,19 @@
             {
                 "day": "WEDNESDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
                 "day": "THURSDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "2:15\u20133:15",
-                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/508/519/525/527",
+                "subject": "PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/518/519/525/527 <br>---<br> PEC DIP/DWV A/DWV B/WN A/WN B  AMP/SLK/DRD/SBB/SRV | 517/524/519/525/527",
                 "faculty": ""
             },
             {
@@ -3315,18 +3051,12 @@
             {
                 "day": "MONDAY",
                 "slot": "3:30\u20134:30",
-                "subject": "DM&LA  SP D",
+                "subject": "DM&LA  SP",
                 "faculty": ""
             },
             {
                 "day": "MONDAY",
                 "slot": "4:30\u20135:30",
-                "subject": "LIBRARY",
-                "faculty": ""
-            },
-            {
-                "day": "TUESDAY",
-                "slot": "10:15\u201311:15",
                 "subject": "LIBRARY",
                 "faculty": ""
             },
@@ -3363,7 +3093,7 @@
             {
                 "day": "WEDNESDAY",
                 "slot": "4:30\u20135:30",
-                "subject": "TGS",
+                "subject": "LIBRARY",
                 "faculty": ""
             },
             {
@@ -3387,13 +3117,25 @@
             {
                 "day": "FRIDAY",
                 "slot": "10:15\u201311:15",
-                "subject": "UHV PR X1",
+                "subject": "CEP",
                 "faculty": ""
             },
             {
                 "day": "FRIDAY",
                 "slot": "4:30\u20135:30",
                 "subject": "SY OE-I  TH",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "1:15\u20132:15",
+                "subject": "CEP",
+                "faculty": ""
+            },
+            {
+                "day": "SATURDAY",
+                "slot": "3:30\u20134:30",
+                "subject": "LIBRARY",
                 "faculty": ""
             },
             {

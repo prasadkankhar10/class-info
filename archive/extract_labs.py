@@ -101,7 +101,8 @@ def build():
                 })
                 
     # Save back to json
-    out_list = sorted(list(rooms_map.values()), key=lambda x: x["name"])
+    # Filter out 402 as requested
+    out_list = sorted([r for r in rooms_map.values() if r["id"] != "402"], key=lambda x: x["name"])
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(out_list, f, indent=4)
         

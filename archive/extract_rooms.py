@@ -156,6 +156,11 @@ def build():
         unique_slots = list(merged_slots.values())
         room_obj["timetable"] = unique_slots
 
+    # Force type to 'lab' for explicitly requested rooms
+    for room_id in ["317", "319", "512", "514", "515"]:
+        if room_id in rooms_db:
+            rooms_db[room_id]["type"] = "lab"
+
     # Filter out 402, 408, 427 as requested
     out_list = sorted([r for r in rooms_db.values() if r["id"] not in ["402", "408", "427"]], key=lambda x: x["name"])
     

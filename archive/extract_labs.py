@@ -35,6 +35,8 @@ def build():
                 "equipment": [],
                 "timetable": []
             }
+        else:
+            rooms_map[sheet]["type"] = "lab"
         
         # Clear existing timetable for this lab room since this new file is authoritative
         rooms_map[sheet]["timetable"] = []

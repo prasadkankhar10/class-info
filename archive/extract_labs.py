@@ -103,8 +103,8 @@ def build():
                 })
                 
     # Save back to json
-    # Filter out 402, 408, 427 as requested
-    out_list = sorted([r for r in rooms_map.values() if r["id"] not in ["402", "408", "427"]], key=lambda x: x["name"])
+    # Filter out 408, 427 as requested
+    out_list = sorted([r for r in rooms_map.values() if r["id"] not in ["408", "427"]], key=lambda x: x["name"])
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(out_list, f, indent=4)
         

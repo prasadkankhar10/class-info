@@ -170,8 +170,8 @@ def build():
         if room_id in rooms_db:
             rooms_db[room_id]["type"] = "lab"
 
-    # Filter out 402, 408, 427 as requested
-    out_list = sorted([r for r in rooms_db.values() if r["id"] not in ["402", "408", "427"]], key=lambda x: x["name"])
+    # Filter out 408, 427 as requested
+    out_list = sorted([r for r in rooms_db.values() if r["id"] not in ["408", "427"]], key=lambda x: x["name"])
     
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(out_list, f, indent=4)
